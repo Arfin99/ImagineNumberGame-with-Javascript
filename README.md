@@ -1,0 +1,6 @@
+# ImagineNumberGame-with-Javascript
+
+Imagine a number from 1 to 14...
+generate a random number
+match the Imagine number with Random number..
+Show the winning and defeat Percentage.....
